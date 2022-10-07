@@ -1,3 +1,4 @@
+git clone [URL du Repository]
 git add --all
-git commit -m
+git commit -m "commentaire de l'action effectuée"
 git push
