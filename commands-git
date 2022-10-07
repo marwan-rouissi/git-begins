@@ -3,3 +3,5 @@ git add --all
 git commit -m "commentaire"
 git push
 git checkout
+git branch "nom de la branche à créer"
+git checkout "nom de la branche sur laquelle switch"
